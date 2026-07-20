@@ -1,7 +1,9 @@
 Replacement grip designed to add a frame mounted picatinny / dovetail rail to a 1911. The left grip is interchanged with a 3d printed counterpart which has an adapting socket to add a top rail. 
 
 This design was a fun project that I slowly became serious about. After a few iterations I've got a general structure which should be the most efficient. Instead of mounting the scope above the center of the slide (being in line with the barrel), it is instead mounted directly above the grip. This reduces bending of the mount (as force is directly applied to the mount without any torque) and allows you to (bi witness?) with the original iron sights. The mount is also rested as low as possible (without obstructing the irons) to prevent bending when rapidly swinging the gun.
+
 When you look at the gripMountOffset, you'll notice how it's canted oddly forward. The reason is because of the interaction between the rails and the iron sights. If extended another inch backwards, any scope rings in that area will hit the irons when the slide is racked. This would easily be solved by raising the height of the grip mount, but at that point you're sacrificing stability of the mount for a minor inconvenience; you're already holding the gun at arms length so what does a couple of inches do for you?
+
 At the bottom right of the gripMountOffset, it looks like somebody took a rectangular cut out of the mount that would've provided a lot of stability. This cutout is room for 1911's with extended safeties such as the Rock Island Standard that I've been using. There is also the added benefit of allowing (some) room for your fingers to rack the slide. The left grooves on the slide are entirely shrouded and you only have the last bit of slide to grab onto. I've founded that the gun is impossible to rack without the hammer cocked so I'd recommend wearing grippy gloves.
 
 Random Info:
